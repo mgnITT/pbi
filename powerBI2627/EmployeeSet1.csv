@@ -1,0 +1,79 @@
+Employee ID,Full Name,Job Title,Department,Gender,Ethnicity,Age,Country,City
+E66666,Lai,Controls Engineer,Engineering,Female,Asian,23,United States,Columbus
+E02003,Robert Patel,Analyst,Sales,Male,Asian,58,United States,Chicago
+E02004,Cameron Lo,Network Administrator,IT,Male,Asian,34,China,Shanghai
+E02005,Harper Castillo,IT Systems Architect,IT,Female,Latino,39,United States,Seattle
+E02006,Harper Dominguez,Director,Engineering,Female,Latino,42,United States,Austin
+E02007,Ezra Vu,Network Administrator,IT,Male,Asian,62,United States,Phoenix
+E02008,Jade Hu,Sr. Analyst,Accounting,Female,Asian,58,China,Chongqing
+E02009,Miles Chang,Analyst II,Finance,Male,Asian,62,China,Chengdu
+E02010,Gianna Holmes,System Administrator ,IT,Female,Caucasian,38,United States,Seattle
+E02011,Jameson Thomas,Manager,Finance,Male,Caucasian,52,United States,Miami
+E02012,Jameson Pena,Systems Analyst,IT,Male,Latino,49,United States,Miami
+E02013,Bella Wu,Sr. Analyst,Finance,Female,Asian,63,United States,Phoenix
+E02014,Jose Wong,Director,IT,Male,Asian,45,China,Chongqing
+E02015,Lucas Richardson,Manager,Marketing,Male,Caucasian,36,United States,Miami
+E02016,Jacob Moore,Sr. Manager,Marketing,Male,Black,42,United States,Phoenix
+E02017,Luna Lu,IT Systems Architect,IT,Female,Asian,62,United States,Miami
+E02018,Bella Tran,Vice President,Engineering,Female,Asian,45,China,Chengdu
+E02019,Ivy Chau,Analyst,Sales,Female,Asian,61,China,Chongqing
+E02041,Chloe Chin,Sr. Manager,Finance,Female,Asian,62,United States,Seattle
+E02042,Ella Martinez,Sr. Analyst,Finance,Female,Latino,35,United States,Chicago
+E02043,Gianna Jones,Manager,Accounting,Female,Caucasian,48,United States,Columbus
+E02044,Austin Chow,Vice President,Accounting,Male,Asian,35,China,Chongqing
+E02045,Ella Chen,Manager,Accounting,Female,Asian,45,United States,Phoenix
+E02046,Ruby Kaur,Test Engineer,Engineering,Female,Asian,26,China,Beijing
+E02047,Savannah Morales,Analyst II,Marketing,Female,Latino,48,United States,Chicago
+E02048,Luca Powell,IT Coordinator,IT,Male,Caucasian,33,United States,Miami
+E02049,Parker Thao,Analyst II,Sales,Male,Asian,55,China,Chongqing
+E02050,Ryan Vo,Cloud Infrastructure Architect,IT,Male,Asian,38,United States,Phoenix
+E02051,Isabella Ngo,Manager,Accounting,Female,Asian,49,United States,Miami
+E02052,Leah Vega,Cloud Infrastructure Architect,IT,Female,Latino,52,United States,Miami
+E02053,Jaxson Liu,Vice President,Finance,Male,Asian,27,United States,Chicago
+E02054,Santiago f Ross,Enterprise Architect,IT,Male,Caucasian,34,United States,Columbus
+E02055,Layla Bell,Vice President,Engineering,Female,Caucasian,65,United States,Chicago
+E02056,Bella Morales,Director,Sales,Female,Latino,38,United States,Austin
+E02057,Eliza Kang,Computer Systems Manager,IT,Female,Asian,63,United States,Phoenix
+E02058,Gabriel Reyes,Manager,Sales,Male,Latino,42,Brazil,Sao Paulo
+E02059,Piper Garcia,Sr. Manager,Sales,Female,Latino,60,Brazil,Sao Paulo
+E02060,Jacob Cheng,Director,Sales,Male,Asian,47,United States,Columbus
+E02061,Nathan Hong,Director,Finance,Male,Asian,50,United States,Phoenix
+E02062,Chloe Kim,Sr. Analyst,Sales,Female,Asian,39,United States,Miami
+E02063,Isaac Guzman,Account Representative,Sales,Male,Latino,46,United States,Phoenix
+E02064,Julian Ford,Analyst II,Sales,Male,Caucasian,50,United States,Miami
+E02065,Kinsley Liang,Automation Engineer,Engineering,Female,Asian,55,China,Shanghai
+E02066,Wesley Yu,Sr. Manager,Sales,Male,Asian,43,United States,Seattle
+E02067,Serenity Martin,Sr. Analyst,Finance,Female,Black,26,United States,Phoenix
+E02068,Ethan Sanchez,Sr. Analyst,Marketing,Male,Latino,34,United States,Phoenix
+E02069,David Sanchez,Director,Sales,Male,Latino,38,Brazil,Rio de Janeiro
+E02070,Elias Hsu,Sr. Analyst,Marketing,Male,Asian,35,China,Chengdu
+E02071,Luca Phan,Manager,Marketing,Male,Asian,39,China,Beijing
+E02072,Olivia Xi,Manager,Sales,Female,Asian,26,United States,Chicago
+E02073,Alice Luu,System Administrator ,IT,Female,Asian,60,United States,Columbus
+E02074,Leonardo Ng,Analyst,Marketing,Male,Asian,32,China,Chengdu
+E02075,Peyton Edwards,Analyst II,Finance,Female,Caucasian,65,United States,Columbus
+E02076,Axel Patel,Sr. Analyst,Sales,Male,Asian,27,United States,Miami
+E02077,Eva Chavez,IT Systems Architect,IT,Female,Latino,63,Brazil,Sao Paulo
+E02078,Savannah Lee,Manager,Human Resources,Female,Asian,51,China,Beijing
+E02079,Mia Grant,Solutions Architect,IT,Female,Caucasian,43,United States,Columbus
+E02080,Eli Richardson,Sr. Manager,Marketing,Male,Black,31,United States,Phoenix
+E02081,Eloise Perry,Sr. Business Partner,Human Resources,Female,Caucasian,26,United States,Chicago
+E02082,Ian Cheng,Sr. Manager,Sales,Male,Asian,46,United States,Phoenix
+E02083,Penelope Chan,Analyst II,Accounting,Female,Asian,59,China,Shanghai
+E02084,Sofia Vasquez,Director,Sales,Female,Latino,52,Brazil,Sao Paulo
+E02085,Anthony Baker,Solutions Architect,IT,Male,Caucasian,31,United States,Phoenix
+E02086,Lucas Luong,Analyst,Marketing,Male,Asian,42,China,Chengdu
+E02087,Xavier Patel,Director,Marketing,Male,Asian,53,United States,Columbus
+E02088,Robert Soto,HRIS Analyst,Human Resources,Male,Latino,47,Brazil,Rio de Janeiro
+E02089,Nevaeh Jiang,Sr. Manager,Marketing,Female,Asian,45,China,Chengdu
+E02090,Chloe Reyes,Director,Human Resources,Female,Latino,45,United States,Phoenix
+E02091,Lucy Edwards,Director,Human Resources,Female,Black,33,United States,Columbus
+E02092,Luna Edwards,Manager,Sales,Female,Black,42,United States,Seattle
+E02093,Stella Daniels,Cloud Infrastructure Architect,IT,Female,Black,37,United States,Columbus
+E02094,Ayla Ma,Manager,Marketing,Female,Asian,27,China,Shanghai
+E02095,Matthew Avila,Computer Systems Manager,IT,Male,Latino,55,Brazil,Sao Paulo
+E02096,Gianna Lim,Analyst,Accounting,Female,Asian,46,China,Chongqing
+E02097,Joseph Tan,Technical Architect,IT,Male,Asian,37,China,Shanghai
+E02098,Connor Lai,Engineering Manager,Engineering,Male,Asian,32,United States,Chicago
+E02099,Ava Owens,Analyst II,Finance,Female,Caucasian,28,United States,Seattle
+E02100,Dylan Aguilar,Director,Engineering,Male,Latino,49,Brazil,Sao Paulo
